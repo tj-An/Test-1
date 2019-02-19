@@ -1,0 +1,6 @@
+1. Clone
+2. Create Branch
+3. Added File 20190219.txt
+4. Commit
+5. Create Patch
+6. Pull Request to remote master
