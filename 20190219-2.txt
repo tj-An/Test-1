@@ -4,3 +4,4 @@
 4. Commit
 5. Create Patch
 6. Pull Request to remote master
+7. Accept #8
